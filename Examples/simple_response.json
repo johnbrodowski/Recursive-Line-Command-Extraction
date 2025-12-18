@@ -1,0 +1,18 @@
+{
+  "FirstLine": "=== Extracted Important Sections ===",
+  "Ranges": [
+    {
+      "StartLine": 5,
+      "EndLine": 10
+    },
+    {
+      "StartLine": 25,
+      "EndLine": 30
+    },
+    {
+      "StartLine": 45,
+      "EndLine": 50
+    }
+  ],
+  "LastLine": "=== End of Extraction ==="
+}
