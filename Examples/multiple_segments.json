@@ -1,0 +1,36 @@
+[
+  {
+    "FirstLine": "=== First Important Section ===",
+    "Ranges": [
+      {
+        "StartLine": 1,
+        "EndLine": 10
+      }
+    ],
+    "LastLine": "=== End First Section ==="
+  },
+  {
+    "FirstLine": "=== Second Important Section ===",
+    "Ranges": [
+      {
+        "StartLine": 20,
+        "EndLine": 30
+      }
+    ],
+    "LastLine": "=== End Second Section ==="
+  },
+  {
+    "FirstLine": "=== Third Important Section ===",
+    "Ranges": [
+      {
+        "StartLine": 50,
+        "EndLine": 60
+      },
+      {
+        "StartLine": 70,
+        "EndLine": 75
+      }
+    ],
+    "LastLine": "=== End Third Section ==="
+  }
+]

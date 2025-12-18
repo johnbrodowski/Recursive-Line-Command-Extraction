@@ -1,0 +1,44 @@
+{
+  "FirstLine": "=== Main Document Summary ===",
+  "Ranges": [
+    {
+      "StartLine": 1,
+      "EndLine": 5
+    }
+  ],
+  "NestedSegments": [
+    {
+      "FirstLine": "  --- Chapter 1: Introduction ---",
+      "Ranges": [
+        {
+          "StartLine": 10,
+          "EndLine": 20
+        }
+      ],
+      "LastLine": "  --- End Chapter 1 ---"
+    },
+    {
+      "FirstLine": "  --- Chapter 2: Methods ---",
+      "Ranges": [
+        {
+          "StartLine": 30,
+          "EndLine": 40
+        }
+      ],
+      "NestedSegments": [
+        {
+          "FirstLine": "    * Section 2.1: Data Collection *",
+          "Ranges": [
+            {
+              "StartLine": 35,
+              "EndLine": 38
+            }
+          ],
+          "LastLine": "    * End Section 2.1 *"
+        }
+      ],
+      "LastLine": "  --- End Chapter 2 ---"
+    }
+  ],
+  "LastLine": "=== End of Document ==="
+}
