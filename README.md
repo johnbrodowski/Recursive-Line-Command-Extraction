@@ -1,3 +1,6 @@
+# About this code
+This example was extracted from AGPA — my fully autonomous general-purpose agent (closed-source, ~150k LOC).
+
 # Recursive Line Command Extraction (RLCE) Framework
 
 A novel C# framework for efficient data extraction from large text files using AI-powered line command extraction.
